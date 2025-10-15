@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+For an extended, downloadable version: <a href="{{ '/files/antonio_balordi_cv.pdf' | relative_url }}" download>Extended CV Version</a>
+
 
 Education
 ======
