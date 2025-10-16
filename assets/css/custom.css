@@ -1,0 +1,9 @@
+a, a:visited {
+  color: #0066cc;
+}
+
+/* Darker shade and underline on hover/focus */
+a:hover, a:focus, a:active {
+  color: #004a99;
+  text-decoration: underline;
+}
