@@ -1,13 +1,11 @@
 ---
 title: "NATO CA2X2 (Computer Assisted Analysis, Exercise, Experimentation) Forum"
 collection: talks
-type: "Conference Poster"
+type: "Conference"
 permalink: /talks/natoca2x2
-venue: "Testing Institute of America 2014 Annual Conference"
+venue: "NATO Modelling & Simulation Centre of Excellence"
 date: September 2025
 location: "Rome, Italy"
 ---
 
-Theme: Enabling Multi-Domain Operations through M&S
-
-In this occasion I have presented a poster on the modeling of Cybersecurity Operations Centers.
+Theme: Enabling Multi-Domain Operations through M&S. In this occasion I have presented a poster on the modeling of Cybersecurity Operations Centers.
