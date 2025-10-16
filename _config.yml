@@ -27,7 +27,7 @@ author:
   name             : "Hey, it's me!"
   pronouns         : # example: "she/her"  
   bio              : "1st year PhD student in Computer Science at CASD, the Italian Defense University. My main research interests is in Machine Unlearning."
-  location         : #"Rome, Italy"
+  location         : "Rome, Italy"
   employer         : "CASD - Centro Alti Studi per la Difesa"
   uri              : # URL
   email            : "antonio.balordi@unicasd.it" 
