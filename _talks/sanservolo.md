@@ -1,7 +1,7 @@
 ---
 title: "PhD Summer School on Secure Software Development: From Design to Implementation"
 collection: talks
-type: "Talk"
+type: "Summer School"
 permalink: /talks/sanservolo
 venue: "SERICS Academy"
 date: September 2025
