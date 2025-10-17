@@ -1,7 +1,7 @@
 ---
 title: "On Counterfactual Explanations of Cardiovascular Risk in Adolescent and Young Adult Breast Cancer Survivors"
 collection: publications
-category: Journal
+category: manuscripts
 permalink: /publication/joms
 excerpt: ''
 date: 16-10-2025
